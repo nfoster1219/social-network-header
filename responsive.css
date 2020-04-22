@@ -1,0 +1,27 @@
+
+@media (max-width: 900px) {
+
+    :root {
+        --site-width: 750px;
+    }
+
+    .profile-photo {
+        height: 175px;
+        width: 175px;
+        top: 155px;
+    }
+
+}
+
+@media (min-width: 1400px) {
+
+    :root {
+        --size-width:1000px;
+    }
+
+    .profile-photo {
+        height: 225px;
+        width: 225px;
+        top: 155px;
+    }
+}
